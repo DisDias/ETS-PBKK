@@ -30,7 +30,7 @@
                 <a class="nav-link" href="/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/post">Rekam</a>
+                <a class="nav-link" href="/rekam">Rekam</a>
               </li>
               </li>
             </ul>
